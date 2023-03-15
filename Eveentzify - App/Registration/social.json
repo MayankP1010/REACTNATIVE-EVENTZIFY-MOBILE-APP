@@ -1,0 +1,31 @@
+{
+    "Social": [
+      {
+        "id": 1,
+        "WhatsAppBusinessNumber": 456342123,
+        "FacebookURL": "https://snack.expo.io/@pratiksha_9298/final-done",
+        "InstagramURL": "https://snack.expo.io/@pratiksha_9298/final-done",
+        "TwitterURL": "https://snack.expo.io/@pratiksha_9298/final-done",
+        "LinkedInURL": "https://snack.expo.io/@pratiksha_9298/final-done",
+        "YoutubeURL": "https://snack.expo.io/@pratiksha_9298/final-done"
+      },
+      {
+        "WhatsAppBusinessNumber": "",
+        "FacebookURL": "",
+        "InstagramURL": "",
+        "TwitterURL": "",
+        "LinkedInURL": "",
+        "YoutubeURL": "",
+        "id": 2
+      },
+      {
+        "WhatsAppBusinessNumber": "9665993440",
+        "FacebookURL": "fb.com",
+        "InstagramURL": "inst.com",
+        "TwitterURL": "twitt.com",
+        "LinkedInURL": "",
+        "YoutubeURL": "ytb.com",
+        "id": 3
+      }
+    ]
+  }

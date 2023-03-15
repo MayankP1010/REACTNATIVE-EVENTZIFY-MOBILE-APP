@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "Eventzify",
+    "slug": "Mobile_Eventzify",
+    "version": "3.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/backg1.png",
+    "splash": {
+      "image": "./assets/backg1.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 5000
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.Atos.Eventzify",
+      "buildNumber": "3.0.0",
+      "supportsTablet": true
+    },
+
+    "android": {
+      "package": "com.Atos.Eventzify",
+      "versionCode": 3,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/backg1.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/backg1.png"
+    }
+  }
+}

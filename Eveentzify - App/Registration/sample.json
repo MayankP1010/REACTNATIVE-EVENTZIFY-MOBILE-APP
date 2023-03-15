@@ -1,0 +1,87 @@
+{
+    "user": [
+      {
+        "id": 1,
+        "Companyname": "Atos",
+        "Firstname": "Atul",
+        "Lastname": "Anand",
+        "Emailid": "atul@gmail.com",
+        "Password": "Atul@1234",
+        "Confirmpassword": "Atul@1234",
+        "Phonenumber": "7020043440"
+      },
+      {
+        "Companyname": "Amdocs",
+        "Phonenumber": "7539512468",
+        "Password": "Gayatri@1",
+        "Confirmpassword": "Gayatri@1",
+        "Firstname": "Gayatri",
+        "Lastname": "Patil",
+        "id": 2
+      },
+      {
+        "Companyname": "Amdocs",
+        "Phonenumber": "7539512468",
+        "Password": "Gayatri@1",
+        "Confirmpassword": "Gayatri@1",
+        "Firstname": "Gayatri",
+        "Lastname": "Patil",
+        "id": 3
+      },
+      {
+        "Companyname": "Amdocs",
+        "Phonenumber": "7539512468",
+        "Password": "Gayatri@1",
+        "Confirmpassword": "Gayatri@1",
+        "Firstname": "Gayatri",
+        "Lastname": "Patil",
+        "id": 4
+      },
+      {
+        "Companyname": "Amdocs",
+        "Phonenumber": "7539512468",
+        "Password": "Gayatri@1",
+        "Confirmpassword": "Gayatri@1",
+        "Firstname": "Gayatri",
+        "Lastname": "Patil",
+        "id": 5
+      },
+      {
+        "Companyname": "fiserv",
+        "Phonenumber": "9835221711",
+        "Password": "Pratik@12",
+        "Confirmpassword": "Pratik@12",
+        "Firstname": "pratik",
+        "Lastname": "patil",
+        "id": 6
+      },
+      {
+        "Companyname": "Sony",
+        "Phonenumber": "9665874123",
+        "Password": "Pra@12",
+        "Confirmpassword": "Pra@12",
+        "Firstname": "Pratiksha",
+        "Lastname": "Patil",
+        "id": 7
+      },
+      {
+        "Companyname": "Nokia",
+        "Phonenumber": "9851236470",
+        "Password": "Surya@12",
+        "Confirmpassword": "Surya@12",
+        "Firstname": "Surya",
+        "Lastname": "Singh",
+        "id": 8
+      },
+      {
+        "Companyname": "delll",
+        "Phonenumber": "3256987411",
+        "Password": "Yog@12",
+        "Emailid": "yogesh@gmail.com",
+        "Confirmpassword": "Yog@12",
+        "Firstname": "yogesh",
+        "Lastname": "sawarkr",
+        "id": 9
+      }
+    ]
+  }
